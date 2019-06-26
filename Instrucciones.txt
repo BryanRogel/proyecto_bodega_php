@@ -1,0 +1,21 @@
+Instalar la base de datos usando phpmyadmin.
+
+-----------------------
+
+nombre de la base de datos: bodegaproyecto
+
+-----------------------
+
+credenciales para iniciar sesión:
+
+-----------------------
+
+Username: admin
+
+Password: 123
+
+-----------------------
+
+Username: user
+
+Password: 123
